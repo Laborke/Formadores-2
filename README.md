@@ -1,2 +1,1 @@
-# Formadores-2
-Grupo de Formadores em Ação
+https://laborke.github.io/Formadores-2/
